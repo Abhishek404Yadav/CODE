@@ -12,7 +12,7 @@ import java.util.*;
             else{
                 System.out.println(f);
                 }
-            
+                sc.close();
         }
        catch(Exception e){
            return;
